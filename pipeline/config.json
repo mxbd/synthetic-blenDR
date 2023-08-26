@@ -1,0 +1,216 @@
+{
+	"input_dir": "PATH TO STL DIR",
+	"output_dir": "PATH TO OUTPUT DIR",
+	"textures_dir": "PATH TO TEXTURES DIR",
+	"backgrounds_dir": "PATH TO BACKGROUNDS DIR",
+	
+	"components": [
+			{
+				"name": "akkuhalter",
+				"category": "akkuhalter",
+				"sub-category": "",
+				"stl-filename": "QC - akkuhalter",
+				"R": 0.0,
+				"G": 1.0,
+				"B": 0.0
+			},
+			{
+				"name": "ausleger1",
+				"category": "ausleger",
+				"sub-category": "ausleger-1",
+				"stl-filename": "QC - ausleger-1",
+				"R": 1.0,
+				"G": 1.0,
+				"B": 0.0
+			},
+			{
+				"name": "ausleger2",
+				"category": "ausleger",
+				"sub-category": "ausleger-2",
+				"stl-filename": "QC - ausleger-2",
+				"R": 0.9,
+				"G": 0.9,
+				"B": 0.0
+			},
+            {
+				"name": "ausleger3",
+				"category": "ausleger",
+				"sub-category": "ausleger-3",
+				"stl-filename": "QC - ausleger-3",
+				"R": 0.8,
+				"G": 0.8,
+				"B": 0.0
+			},
+            {
+				"name": "ausleger4",
+				"category": "ausleger",
+				"sub-category": "ausleger-4",
+				"stl-filename": "QC - ausleger-4",
+				"R": 0.7,
+				"G": 0.7,
+				"B": 0.0
+			},
+            {
+				"name": "deckplatte",
+				"category": "deckplatte",
+				"sub-category": "",
+				"stl-filename": "QC - deckplatte",
+				"R": 1.0,
+				"G": 0.3,
+				"B": 0.0
+			},
+			{
+				"name": "grundplatte",
+				"category": "grundplatte",
+				"sub-category": "",
+				"stl-filename": "QC - grundplatte",
+				"R": 0.0,
+				"G": 0.0,
+				"B": 1.0
+			},
+			{
+				"name": "landekufe1",
+				"category": "landekufe",
+				"sub-category": "landekufe-1",
+				"stl-filename": "QC - landekufe-1",
+				"R": 1.0,
+				"G": 0.1,
+				"B": 0.6
+			},
+			{
+				"name": "landekufe2",
+				"category": "landekufe",
+				"sub-category": "landekufe-2",
+				"stl-filename": "QC - landekufe-2",
+				"R": 1.0,
+				"G": 0.2,
+				"B": 0.6
+			},
+			{
+				"name": "motor1",
+				"category": "motor",
+				"sub-category": "motor-1",
+				"stl-filename": "QC - motor-1",
+				"R": 0.0,
+				"G": 1.0,
+				"B": 1.0
+			},
+			{
+				"name": "motor2",
+				"category": "motor",
+				"sub-category": "motor-2",
+				"stl-filename": "QC - motor-2",
+				"R": 0.0,
+				"G": 0.9,
+				"B": 0.9
+			},
+			{
+				"name": "motor3",
+				"category": "motor",
+				"sub-category": "motor-3",
+				"stl-filename": "QC - motor-3",
+				"R": 0.0,
+				"G": 0.8,
+				"B": 0.8
+			},
+			{
+				"name": "motor4",
+				"category": "motor",
+				"sub-category": "motor-4",
+				"stl-filename": "QC - motor-4",
+				"R": 0.0,
+				"G": 0.7,
+				"B": 0.7
+			},
+			{
+				"name": "propeller1",
+				"category": "propeller",
+				"sub-category": "propeller-1",
+				"stl-filename": "QC - propeller-1",
+				"R": 1.0,
+				"G": 0.0,
+				"B": 0.0
+			},
+			{
+				"name": "propeller2",
+				"category": "propeller",
+				"sub-category": "propeller-2",
+				"stl-filename": "QC - propeller-2",
+				"R": 0.9,
+				"G": 0.0,
+				"B": 0.0
+			},
+			{
+				"name": "propeller3",
+				"category": "propeller",
+				"sub-category": "propeller-3",
+				"stl-filename": "QC - propeller-3",
+				"R": 0.8,
+				"G": 0.0,
+				"B": 0.0
+			},
+			{
+				"name": "propeller4",
+				"category": "propeller",
+				"sub-category": "propeller-4",
+				"stl-filename": "QC - propeller-4",
+				"R": 0.7,
+				"G": 0.0,
+				"B": 0.0
+			},
+			{
+				"name": "schraube1",
+				"category": "schraube_m6",
+				"sub-category": "schraube-1",
+				"stl-filename": "QC - schraube-m6x35-1",
+				"R": 0.5,
+				"G": 0.3,
+				"B": 0.1
+			},
+			{
+				"name": "schraube2",
+				"category": "schraube_m6",
+				"sub-category": "schraube-2",
+				"stl-filename": "QC - schraube-m6x35-2",
+				"R": 0.5,
+				"G": 0.3,
+				"B": 0.2
+			},
+			{
+				"name": "schraube3",
+				"category": "schraube_m6",
+				"sub-category": "schraube-3",
+				"stl-filename": "QC - schraube-m6x35-3",
+				"R": 0.5,
+				"G": 0.3,
+				"B": 0.3
+			},
+			{
+				"name": "schraube4",
+				"category": "schraube_m6",
+				"sub-category": "schraube-4",
+				"stl-filename": "QC - schraube-m6x35-4",
+				"R": 0.5,
+				"G": 0.3,
+				"B": 0.4
+			}
+		],
+	"render_settings":
+	{
+		"n_images": 3,
+		"r_camera": 2,
+		"r_light": 2,
+		"intensity_min_light": 10,
+		"intensity_max_light": 10000,
+		"light_properties_random": 1,
+		"light_position_random": 1,
+		"n_distractors_min": 5,
+		"n_distractors_max": 10,
+		"r_distractors_min": 0.8,
+		"r_distractors_max": 1.3,
+		"scale_distractors_min": 0.1,
+		"scale_distractors_max": 0.15,
+		"add_distractors": 1,
+		"random_seed": 3			
+	}
+}
