@@ -38,8 +38,8 @@ python render.py
 
 <table>
   <tr>
-    <th>RGB Image</th>
-    <th>Segmentation Image</th>
+    <th>RGB</th>
+    <th>Segmentation</th>
   </tr>
   <tr>
     <td align="center"><img src="/examples/rgb_image_001.png" alt="Image" style="width:100%;"></td>
