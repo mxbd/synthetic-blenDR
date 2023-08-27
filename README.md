@@ -7,7 +7,7 @@ Various challenges within industrial AI arise due to inadequate data availabilit
 
 To overcome this limitation, Domain Randomization has emerged as a systematic strategy for data generation. Its primary objective is to bolster model performance in real-world settings by artificially expanding the parameter space of the synthetic training dataset, thus enhancing its transferability to real-world scenarios.
 
-This pipeline uses the zpy zumo library and Blender 2.92 in order to generate synthetic images with varying object textures, backgrounds, lighting conditions and perspectives.
+This pipeline uses the zpy zumo library and Blender in order to generate synthetic images with varying object textures, backgrounds, lighting conditions and camera perspectives.
  
 ## Requirements
 
