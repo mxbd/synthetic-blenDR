@@ -4,8 +4,8 @@ Blender-based Synthetic Image and Annotation Generation using Domain Randomizati
 ## Requirements
 
 | ------ | ------ |
-| zpy | https://github.com/ZumoLabs/zpy |
-| Blender 2.92 | https://download.blender.org/release/ |
+| zpy | [https://github.com/ZumoLabs/zpy] |
+| Blender 2.92 | [https://download.blender.org/release/] |
 
 ## Examples of generated images
 
