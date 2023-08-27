@@ -5,8 +5,8 @@
 
 RGB Image           |  Segmentation Image
 :-------------------------:|:-------------------------:
-<img src="/examples/rgb_image_001.png" alt="Image" style="width:45%;"> <img src="/examples/iseg_image_001.png" alt="Image" style="width:45%;">
-<img src="/examples/rgb_image_002.png" alt="Image" style="width:45%;"> <img src="/examples/iseg_image_002.png" alt="Image" style="width:45%;">
-<img src="/examples/rgb_image_003.png" alt="Image" style="width:45%;"> <img src="/examples/iseg_image_003.png" alt="Image" style="width:45%;">
-<img src="/examples/rgb_image_004.png" alt="Image" style="width:45%;"> <img src="/examples/iseg_image_004.png" alt="Image" style="width:45%;">
+<img src="/examples/rgb_image_001.png" alt="Image" style="width:45%;"> | <img src="/examples/iseg_image_001.png" alt="Image" style="width:45%;">
+<img src="/examples/rgb_image_002.png" alt="Image" style="width:45%;"> | <img src="/examples/iseg_image_002.png" alt="Image" style="width:45%;">
+<img src="/examples/rgb_image_003.png" alt="Image" style="width:45%;"> | <img src="/examples/iseg_image_003.png" alt="Image" style="width:45%;">
+<img src="/examples/rgb_image_004.png" alt="Image" style="width:45%;"> | <img src="/examples/iseg_image_004.png" alt="Image" style="width:45%;">
 
