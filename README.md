@@ -1,7 +1,14 @@
 # synthetic-blenDR
 Blender-based Synthetic Image and Annotation Generation using Domain Randomization for Deep Neural Network Object Detection
 
-## Examples of synthetically generated images using Domain Randomization
+## Requirements
+
+| Program | Link |
+| ------ | ------ |
+| zpy | [https://github.com/ZumoLabs/zpy][Plzu] |
+| Blender 2.92 | [https://download.blender.org/release/][PlBl] |
+
+## Examples of generated images
 
 <table>
   <tr>
