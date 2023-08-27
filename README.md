@@ -58,6 +58,6 @@ python render.py
 </table>
 
 ## Real-time Detection
-The following Gif shows real time detection of the assembly using YOLOv7 which was trained on a purely synthetic dataset consisting of 500 training and 130 validation images.
+Real-time demonstration of object detection using YOLOv7. This model was trained exclusively on a synthetic dataset, comprising of 500 training and 130 validation images. This yielded an mAP value of 71.21%.
 
 <img src="/examples/detection.gif">
