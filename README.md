@@ -1,6 +1,12 @@
 # synthetic-blenDR
 Blender-based Synthetic Image and Annotation Generation using Domain Randomization for Deep Neural Network Object Detection
 
+## Synthetic Data and Domain Randomization
+
+Various challenges within industrial AI arise due to inadequate data availability. This deficiency can manifest in the form of limited dataset sizes or the prohibitively high costs linked to manual annotation. To address these issues, the adoption of synthetic data for training deep learning models has gained significant traction. However, it's worth noting that models exclusively trained on synthetic data often encounter performance deterioration when applied to real-world input. This degradation can be attributed to the inherent disparities between the characteristics of synthetic and real images.
+
+To overcome this limitation, Domain Randomization has emerged as a systematic strategy for data generation. Its primary objective is to bolster model performance in real-world settings by artificially expanding the parameter space of the synthetic training dataset, thus enhancing its transferability to real-world scenarios.
+ 
 ## Requirements
 
 | Software | Link |
