@@ -16,7 +16,7 @@ Blender-based Synthetic Image and Annotation Generation using Domain Randomizati
   - textures
   - backgrounds
       
-- Configure ```sh config.json ```
+- Configure ```config.json ```
   - specify neccesary directories
   - add assembly component structure
   - specify render settings
