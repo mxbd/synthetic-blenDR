@@ -10,6 +10,16 @@ Blender-based Synthetic Image and Annotation Generation using Domain Randomizati
 
 ## Usage
 
+- Gather resources
+  - stl files of assembly
+  - textures
+  - backgrounds
+      
+- Configure config.json
+  - specify neccesary directories
+  - add assembly component structure
+  - specify render settings
+
 ```sh
 python render.py
 ```
