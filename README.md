@@ -36,4 +36,4 @@ Blender-based Synthetic Image and Annotation Generation using Domain Randomizati
 
 ## Real-time Detection
 The following Gif shows real time detection of the assembly using YOLOv7 which was trained on a purely synthetic dataset consisting of 500 training and 130 validation images.
-![](/examples/detection.gif)
+<img src="/examples/detection.gif">
