@@ -3,4 +3,5 @@
 
  ## Examples of synthetically generated images using Domain Randomization
 
- ![](/examples/rgb_image_001.png)  ![](/examples/iseg_image_001.png)
+<img src="/examples/rgb_image_001.png" alt="Image" style="width:50%;"> <img src="/examples/iseg_image_001.png" alt="Image" style="width:50%;">
+
